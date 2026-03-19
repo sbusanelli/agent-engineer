@@ -1,4 +1,4 @@
-# Agent Engineer - a practical course for software engineers
+# Agent Engineer - a course for software engineers
 
 Learn the fundamentals of AI agents and how to build them with Google Cloud AI.
 
