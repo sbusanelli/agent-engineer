@@ -445,7 +445,7 @@ Track performance per agent and per orchestration run:
 
 Use distributed tracing (e.g., OpenTelemetry) to follow a request through multiple agents. This is essential for debugging when things go wrong.
 
-See [ADK Tracing documentation](https://google.github.io/adk-docs/) and [Google Cloud Trace](https://cloud.google.com/trace) for implementation guidance.
+See [ADK Tracing documentation](https://google.github.io/adk-docs/) and [Google Cloud Trace](https://docs.cloud.google.com/trace/docs) for implementation guidance.
 
 ### Design for failure
 
@@ -489,7 +489,7 @@ Agents fail. Tools return errors. LLMs hallucinate. Your orchestrator needs to h
 
 - [ADK Workflow Agents](https://google.github.io/adk-docs/agents/workflow-agents/)
 - [Multi-Agent Patterns in ADK](https://developers.googleblog.com/developers-guide-to-multi-agent-patterns-in-adk/)
-- [Anthropic - Building Effective AI Agents](https://www.anthropic.com/research/building-effective-agents)
+- [Anthropic - Building Effective AI Agents](https://www.anthropic.com/engineering/building-effective-agents)
 - [Microsoft Azure - AI Agent Orchestration Patterns](https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/ai-agent-design-patterns)
 - [LangGraph Documentation](https://langchain-ai.github.io/langgraph/)
 - [CrewAI Documentation](https://docs.crewai.com/)
